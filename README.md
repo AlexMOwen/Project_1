@@ -1,1 +1,2 @@
 # Project_1
+First pything project. Basic program that sorts reads a csv file containing information about soccer players and then sorts the players equally into a specified number of teams by experience. Resulting teams a written to a text file. Also writes welcome letters tailored to each player. 
