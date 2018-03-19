@@ -41,7 +41,7 @@ def experience_sorter(filepath, file_delimiter, **kwargs):
     return teams
 
 # Writes welcome letters customised to each player in 'arg'.
-# This code seemed more suited to its own function than being part of roster_builder().
+# This code seemed more suited to its own function than being part of experience_sorter().
 def welcome_letters(arg):
     for team in arg:
         for player_dict in arg[team]:
